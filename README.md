@@ -1,24 +1,16 @@
 <img src="https://i.imgur.com/XseXU8J.png" width="900">
 
+<br>
+
 # General Assembly Bootcamp Prep - Part 2
-
-## Topics
-
-| Lesson | Skills & Learning Objectives |
-| ------ | ---------------------------- |
-| [Installfest](./installfest/README.md)         | Your first hands-on experience in setting up a development environment as an aspiring developer!  |
-| [Intro to GitHub](./intro-to-github/README.md) | Define GitHub, its benefits, and its workflow.                                                    |
-| [Intro to Git](./intro-to-git/README.md)       | Why is Git such an important too for developers?                                                  |
-| [Intro to the CLI](./intro-to-git/README.md)   | Access your computer’s command line interface (CLI) and start using it to navigate your computer. |
-| [Control Flow](./control-flow/README.md)       | Have your applications make decisions based on certain conditions using logic.                    |
-| [Functions](./functions/README.md)             | Write blocks of code you can run on command to perform a specific routine.                        |
-
-This will be your shared class repo!
 
 ### Contents
 
-- [👋 Welcome back to Bootcamp Prep and Introductions](#-welcome-to-sebr--introductions)
+https://github.com/eric-klimowich/bootcamp-prep-part-2-2024?tab=readme-ov-file#-welcome-to-bootcamp-prep---part-2--introductions
+
+- [👋 Welcome back to Bootcamp Prep and Introductions](#-welcome-to-bootcamp-prep---part-2--introductions)
 - [🏫 Link to the Class Zoom Room](#-link-to-the-class-zoom-room)
+- [📋 Link to the Class Zoom Room](#-link-to-the-class-zoom-room)
 - [🧑‍🏫 Instructional Team / Contact Info](#-instructional-team-contact-information)
 - [📝 Additional Coding Practice Resources](#-additional-coding-practice-resources)
 - [🪴 Becoming Familiar With the GitHub Workflow](#-becoming-familiar-with-the-seb-github-workflow)
@@ -34,6 +26,21 @@ Say your:
 - Where you're located
 - What you were doing before this 
 - What brought you here to GA
+
+### 📋 Topics
+
+| Lesson | Skills & Learning Objectives |
+| ------ | ---------------------------- |
+| [Installfest](./installfest/README.md)         | Your first hands-on experience in setting up a development environment as an aspiring developer!  |
+| [Intro to GitHub](./intro-to-github/README.md) | Define GitHub, its benefits, and its workflow.                                                    |
+| [Intro to Git](./intro-to-git/README.md)       | Why is Git such an important too for developers?                                                  |
+| [Intro to the CLI](./intro-to-git/README.md)   | Access your computer’s command line interface (CLI) and start using it to navigate your computer. |
+| [Control Flow](./control-flow/README.md)       | Have your applications make decisions based on certain conditions using logic.                    |
+| [Functions](./functions/README.md)             | Write blocks of code you can run on command to perform a specific routine.                        |
+
+This will be your shared class repo!
+
+
 
 ### 🏫 Link to the Class Zoom Room
 
