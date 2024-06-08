@@ -51,7 +51,7 @@ This will be your shared class repo!
 | Senior Instructional Associate | Raul Jiminian     | raul.jiminian@generalassemb.ly     |
 | Senior Instructional Associate | Megan Hawkins     | megan.hawkins@generalassemb.ly     |
 | Instructional Associate        | Megan Barber      | megan.barber@generalassemb.ly      |
-| Instructional Associate        | Keith Baskerville | keith.baskerville@generalassemb.ly |
+| Senior Instructional Associate | Keith Baskerville | keith.baskerville@generalassemb.ly |
 | Lead Instructor                | Eric Klimowich    | eric.klimowich@generalassemb.ly    |
 
 ### 📝 Additional Coding Practice Resources
