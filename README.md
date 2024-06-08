@@ -1,3 +1,5 @@
+<img src="https://i.imgur.com/XseXU8J.png" width="900">
+
 # General Assembly Bootcamp Prep - Part 2
 
 ## Topics
@@ -11,10 +13,6 @@
 | [Control Flow](./control-flow/README.md)       | Have your applications make decisions based on certain conditions using logic.                    |
 | [Functions](./functions/README.md)             | Write blocks of code you can run on command to perform a specific routine.                        |
 
-<img src="https://i.imgur.com/XseXU8J.png" width="900">
-
-# Welcome to General Assembly SEBR-02-12-24!!!!
-
 This will be your shared class repo!
 
 ### Contents
@@ -27,8 +25,9 @@ This will be your shared class repo!
 - [🏆 How to Succeed in SEBR](#-how-to-succeed-in-sebr)
 - [📈 Growth Mindset](#-growth-mindset)
 
-### 👋 Welcome to SEBR & Introductions
-Welcome to your first day of General Assembly's Software Engineering Bootcamp! Let's all introduce ourselves! 
+### 👋 Welcome to Bootcamp Prep - Part 2 & Introductions
+
+Welcome to Part 2 of General Assembly's Software Engineering Bootcamp Prep! Let's all introduce ourselves! 
 Say your:
 - Name (preferred name)
 - Your pronouns
@@ -39,8 +38,6 @@ Say your:
 ### 🏫 Link to the Class Zoom Room
 
 [Link to join the class Zoom Room](https://generalassembly.zoom.us/j/91398072480?pwd=zPp7E0UonktALaaqUtmznltqU4dHsc.1)
-
-
 
 ### 🧑‍🏫 Instructional Team Contact Information
 
@@ -54,7 +51,7 @@ Say your:
 
 ### 📝 Additional Coding Practice Resources
 
-If/when you find yourself with extra time, and assuming you are caught up with your Daily JavaScript Code Challenges, look into these external resources:
+If/when you find yourself with extra time, look into these external resources:
 
 #### *edabit*
 
@@ -74,7 +71,7 @@ Designed to prep you for technical interviews, [Interview Cake](https://www.inte
 
 It's *not free*, however, so you should take advantage of its free 7-day email crash course and decide if it's worth the bucks to you.
 
-### 🪴 Becoming Familiar With the SEB GitHub Workflow
+### 🪴 Becoming Familiar With the GitHub Workflow
 
 #### Forking (copying) the GA Class Repo to Your GitHub Account
 
