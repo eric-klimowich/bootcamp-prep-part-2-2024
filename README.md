@@ -32,12 +32,11 @@ Say your:
 | [Installfest](./installfest/README.md)         | Your first hands-on experience in setting up a development environment as an aspiring developer!  |
 | [Intro to GitHub](./intro-to-github/README.md) | Define GitHub, its benefits, and its workflow.                                                    |
 | [Intro to Git](./intro-to-git/README.md)       | Why is Git such an important too for developers?                                                  |
-| [Intro to the CLI](./intro-to-cli/README.md)   | Access your computer’s command line interface (CLI) and start using it to navigate your computer. |
+| [Intro to the CLI](./Intro-to-cli/README.md)   | Access your computer’s command line interface (CLI) and start using it to navigate your computer. |
 | [Control Flow](./control-flow/README.md)       | Have your applications make decisions based on certain conditions using logic.                    |
 | [Functions](./functions/README.md)             | Write blocks of code you can run on command to perform a specific routine.                        |
 
 This will be your shared class repo!
-
 
 
 ### 🏫 Link to the Class Zoom Room
