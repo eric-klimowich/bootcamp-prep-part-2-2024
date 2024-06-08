@@ -1,12 +1,10 @@
-### Time
-
-TBD
+# CLI vs. GUI
 
 ## Learning Objective
 
 By the end of this lesson, you'll be able to:
 
-* Explain the command line and why developers use it.
+* Understand the differences between the CLI and GUI.
 
 ## GUIs
 

@@ -1,9 +1,5 @@
 ![Intro to the CLI](./assets/hero.png)
 
-### Time
-
-TBD
-
 ## Learning Objectives
 
 By the end of this lesson, you'll be able to:
@@ -23,12 +19,12 @@ If you stick to using commands as instructed in this lesson, you’ll be safe.
 
 | Lesson | Skills & Learning Objectives |
 | ------ | ---------------------------- |
-| [CLI vs. GUI](./cli-vs-gui/README.md)                                 | Understand the three types of control flow and their importance in programming. |
-| [Open the Terminal](./open-the-terminal/README.md) | Use comparison operators to compare data.                                       |
-| [Your First Command](./your-first-command/README.md) | Use comparison operators to compare data.                                       |
-| [The File System](./the-file-system/README.md) | Use comparison operators to compare data.                                       |
-| [Basic Commands](./basic-commands/README.md)                         | Create conditional statements to control the flow of your program.              |
-| [Where in the World?!](./where-in-the-world/README.md)                         | Create conditional statements to control the flow of your program.              |
+| [CLI vs. GUI](./cli-vs-gui/README.md)                 | Understand the three types of control flow and their importance in programming. |
+| [Open the Terminal](./open-the-terminal/README.md)    | Use comparison operators to compare data.                                       |
+| [Your First Command](./your-first-command/README.md)  | Use comparison operators to compare data.                                       |
+| [The File System](./the-file-system/README.md)        | Use comparison operators to compare data.                                       |
+| [Basic Commands](./basic-commands/README.md)           | Create conditional statements to control the flow of your program.             |
+| [Where in the World?!](./where-in-the-world/README.md) | Create conditional statements to control the flow of your program.             |
 
 ## Study Guide
 

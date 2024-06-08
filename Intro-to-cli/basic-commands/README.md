@@ -1,6 +1,4 @@
-### Time
-
-TBD
+# Basic Commands
 
 ## Learning Objective
 
@@ -8,7 +6,7 @@ By the end of this lesson, you'll be able to:
 
 * Write your first command and see your first error.
 
-
+## The Basics
 
 Here is a list commands we will learn:
 

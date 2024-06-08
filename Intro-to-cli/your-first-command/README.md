@@ -1,6 +1,4 @@
-### Time
-
-TBD
+# Your First Command
 
 ## Learning Objective
 

@@ -1,4 +1,4 @@
-## Open the terminal application
+## Open the Terminal
 
 How you open your terminal application will depend upon your OS.
 

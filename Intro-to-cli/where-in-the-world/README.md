@@ -1,12 +1,10 @@
-### Time
-
-TBD
+# Where in the World?!
 
 ## Learning Objective
 
 By the end of this lesson, you'll be able to:
 
-* Explain the command line and why developers use it.
+* Find a file using the command line.
 
 ## Where in the World is Carmen Sandiego?
 

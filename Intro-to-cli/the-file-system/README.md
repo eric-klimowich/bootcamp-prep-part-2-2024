@@ -1,12 +1,10 @@
-### Time
-
-TBD
+# The File System
 
 ## Learning Objective
 
 By the end of this lesson, you'll be able to:
 
-Analyze and categorize key components of a computer's file system, including root and home directories, and explain their significance using real-world analogies.
+* Analyze and categorize key components of a computer's file system, including root and home directories, and explain their significance using real-world analogies.
 
 ## What is the file system?
 
