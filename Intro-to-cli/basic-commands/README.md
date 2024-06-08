@@ -4,7 +4,7 @@
 
 By the end of this lesson, you'll be able to:
 
-* Write your first command and see your first error.
+* Practice using basic commands.
 
 ## The Basics
 

@@ -19,12 +19,12 @@ If you stick to using commands as instructed in this lesson, you’ll be safe.
 
 | Lesson | Skills & Learning Objectives |
 | ------ | ---------------------------- |
-| [CLI vs. GUI](./cli-vs-gui/README.md)                 | Understand the three types of control flow and their importance in programming. |
-| [Open the Terminal](./open-the-terminal/README.md)    | Use comparison operators to compare data.                                       |
-| [Your First Command](./your-first-command/README.md)  | Use comparison operators to compare data.                                       |
-| [The File System](./the-file-system/README.md)        | Use comparison operators to compare data.                                       |
-| [Basic Commands](./basic-commands/README.md)           | Create conditional statements to control the flow of your program.             |
-| [Where in the World?!](./where-in-the-world/README.md) | Create conditional statements to control the flow of your program.             |
+| [CLI vs. GUI](./cli-vs-gui/README.md)                  | Understand the differences between the CLI and GUI.              |
+| [Open the Terminal](./open-the-terminal/README.md)     | How you open your terminal application will depend upon your OS. |
+| [Your First Command](./your-first-command/README.md)   | Write your first command and see your first error.               |
+| [The File System](./the-file-system/README.md)         | Analyze and categorize key components of a computer's file system, including root and home directories, and explain their significance using real-world analogies. |
+| [Basic Commands](./basic-commands/README.md)           | Practice using basic commands.                                   |
+| [Where in the World?!](./where-in-the-world/README.md) | Find a file using the command line.                              |
 
 ## Study Guide
 
