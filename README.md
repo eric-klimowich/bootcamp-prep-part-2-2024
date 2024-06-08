@@ -19,23 +19,13 @@ This will be your shared class repo!
 
 ### Contents
 
-- [👋 Welcome to SEBR and Introductions](https://git.generalassemb.ly/ericklimowich/SEBR-02-12-24-student-repo#-welcome-to-sebr--introductions)
-- [🗓 Course Dates and Holidays](https://git.generalassemb.ly/ericklimowich/SEBR-02-12-24-student-repo#-course-dates-and-holidays)
-- [🏫 Link to the Class Zoom Room](https://git.generalassemb.ly/ericklimowich/SEBR-02-12-24-student-repo#-link-to-the-class-zoom-room)
-- [📼 Link to Recorded Classroom Sessions](https://git.generalassemb.ly/ericklimowich/SEBR-02-12-24-student-repo#-link-to-recorded-classroom-sessions)
-- [📚 Course Curriculum](https://git.generalassemb.ly/ericklimowich/SEBR-02-12-24-student-repo#-course-curriculum)
-- [🗓 Weekly Schedule](https://git.generalassemb.ly/ericklimowich/SEBR-02-12-24-student-repo#-weekly-schedule)
-- [🧑‍🏫 Instructional Team / Contact Info](https://git.generalassemb.ly/ericklimowich/SEBR-02-12-24-student-repo#-instructional-team-contact-information)
-- [📅 Instructors' Office Hours](https://git.generalassemb.ly/ericklimowich/SEBR-02-12-24-student-repo#instructors-office-hours)
-- [📝 Deliverables & Daily Code Challenges](https://git.generalassemb.ly/ericklimowich/SEBR-02-12-24-student-repo#-deliverables--daily-code-challenges)
-- [📝 Daily JavaScript Code Challenges](https://git.generalassemb.ly/ericklimowich/SEBR-02-12-24-student-repo#-daily-javascript-code-challenges-deliverables)
-- [📝 Additional Coding Practice Resources](https://git.generalassemb.ly/ericklimowich/SEBR-02-12-24-student-repo#-additional-coding-practice-resources)
-- [🪴 Class Repository Structure](https://git.generalassemb.ly/ericklimowich/SEBR-02-12-24-student-repo#-class-repo-structure)
-- [🪴 Becoming Familiar With the SEB GitHub Workflow](https://git.generalassemb.ly/ericklimowich/SEBR-02-12-24-student-repo#-becoming-familiar-with-the-seb-github-workflow)
-- [👮 Course Policies](https://git.generalassemb.ly/ericklimowich/SEBR-02-12-24-student-repo#-course-policies)
-- [🏆 How to Succeed in SEBR](https://git.generalassemb.ly/ericklimowich/SEBR-02-12-24-student-repo#-how-to-succeed-in-sebr)
-- [📈 Growth Mindset](https://git.generalassemb.ly/ericklimowich/SEBR-02-12-24-student-repo#-growth-mindset)
-- [🎓 SEBR Graduation Requirements](https://git.generalassemb.ly/ericklimowich/SEBR-02-12-24-student-repo#-sebr-graduation-requirements)
+- [👋 Welcome back to Bootcamp Prep and Introductions](#-welcome-to-sebr--introductions)
+- [🏫 Link to the Class Zoom Room](#-link-to-the-class-zoom-room)
+- [🧑‍🏫 Instructional Team / Contact Info](#-instructional-team-contact-information)
+- [📝 Additional Coding Practice Resources](#-additional-coding-practice-resources)
+- [🪴 Becoming Familiar With the GitHub Workflow](#-becoming-familiar-with-the-seb-github-workflow)
+- [🏆 How to Succeed in SEBR](#-how-to-succeed-in-sebr)
+- [📈 Growth Mindset](#-growth-mindset)
 
 ### 👋 Welcome to SEBR & Introductions
 Welcome to your first day of General Assembly's Software Engineering Bootcamp! Let's all introduce ourselves! 
