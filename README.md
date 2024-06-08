@@ -9,3 +9,4 @@
 | [Intro to Git](./intro-to-git/README.md)       | Why is Git such an important too for developers?                                                  |
 | [Intro to the CLI](./intro-to-git/README.md)   | Access your computer’s command line interface (CLI) and start using it to navigate your computer. |
 | [Control Flow](./control-flow/README.md)       | Have your applications make decisions based on certain conditions using logic.                    |
+| [Functions](./functions/README.md)             | Write blocks of code you can run on command to perform a specific routine.                        |

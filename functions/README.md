@@ -18,8 +18,8 @@ One of the best ways to create buggy code is to copy-paste a few lines of code a
 
 | Lesson | Skills & Learning Objectives |
 | ------ | ---------------------------- |
-| [Concepts and Fundamentals](./concepts-and-fundamentals/README.md) |  Explain how JavaScript functions can simplify complex tasks and promote code reusability.                          |
-| [Parameters and Arguments](./parameters-and-arguments/README.md)                         | Declare a function with parameters and call a function using arguments. |
-| [Return Values](./return-values/README.md)                                       | Return data from functions using the `return` statement.                               |
-| [Scope](./scope/README.md) | Clearly define lexical scope in JavaScript, illustrating its significance in structuring and accessing variables within code.                          |
-| [Functions and Arrays](./functions-and-arrays/README.md) | Clearly define lexical scope in JavaScript, illustrating its significance in structuring and accessing variables within code.                          |
+| [Concepts and Fundamentals](./concepts-and-fundamentals/README.md) |  Explain how JavaScript functions can simplify complex tasks and promote code reusability. |
+| [Parameters and Arguments](./parameters-and-arguments/README.md)   | Declare a function with parameters and call a function using arguments.                    |
+| [Return Values](./return-values/README.md)                         | Return data from functions using the `return` statement.                                   |
+| [Scope](./scope/README.md)                                         | Clearly define lexical scope in JavaScript, illustrating its significance in structuring and accessing variables within code.                          |
+| [Functions and Arrays](./functions-and-arrays/README.md)           | Combine to powerful tools in JavaScript.                                                   |
