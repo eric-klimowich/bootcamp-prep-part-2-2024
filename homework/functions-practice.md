@@ -1,16 +1,3 @@
-
----
----
-
-- How do we want them to complete/submiit this? by forking and cloning the repo? or by using codepen?
-
-- This homework has 5 function exercises and 5 control flow exercies. Just a note, question 10 will be a level up since it requires a nested loop.
-
----
----
-
-[header tk]
-
 # Functions and Control Flow Practice
 
 The purpose of this exercise is to practice working with functions. Think of it

@@ -1,20 +1,3 @@
-
----
----
-
-- Still needs review (I had to edit it to remove commands not covered in lecture, but I did add a few additional commands in a bonus section)
-
-- Note the question about creating an issue or a adding a file to submit the lab
-
-
-
----
----
-<br>
-
-[HEADER TK]
-
-
 # To Oz? To Oz!
 
 Practice working with the command line by helping Dorothy and her gang navigate
