@@ -6,10 +6,8 @@
 
 ### Contents
 
-https://github.com/eric-klimowich/bootcamp-prep-part-2-2024?tab=readme-ov-file#-welcome-to-bootcamp-prep---part-2--introductions
-
 - [👋 Welcome back to Bootcamp Prep and Introductions](#-welcome-to-bootcamp-prep---part-2--introductions)
-- [🏫 Link to the Class Zoom Room](#-link-to-the-class-zoom-room)
+- [🏫 Link to the Topics](#-topics)
 - [📋 Link to the Class Zoom Room](#-link-to-the-class-zoom-room)
 - [🧑‍🏫 Instructional Team / Contact Info](#-instructional-team-contact-information)
 - [📝 Additional Coding Practice Resources](#-additional-coding-practice-resources)
