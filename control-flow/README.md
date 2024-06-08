@@ -1,9 +1,5 @@
 # ![JavaScript Control Flow](./assets/hero.png)
 
-### Time
-
-TBD
-
 ## Learning Objectives
 
 By the end of this lesson, you'll be able to:
@@ -24,7 +20,7 @@ It would be nice if we could tell computers to make us the perfect sandwich, but
 | [Concepts](./concepts/README.md)                                 | Understand the three types of control flow and their importance in programming. |
 | [Comparison in JavaScript](./comparison-in-javascript/README.md) | Use comparison operators to compare data.                                       |
 | [Conditionals](./conditionals/README.md)                         | Create conditional statements to control the flow of your program.              |
-| [Loops](./loops/README.md)                                       | Write `for` loops and `while` loops.                                           git s |
+| [Loops](./loops/README.md)                                       | Write `for` loops and `while` loops.                                            |
 
 ## Study Guide
 

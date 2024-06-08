@@ -1,10 +1,6 @@
 # Comparison in JavaScript
 
-### Time
-
-TBD
-
- ## Learning Objective
+## Learning Objective
 
 By the end of this lesson, you'll be able to:
 

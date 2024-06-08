@@ -1,9 +1,5 @@
 # `for` Loops
 
-### Time
-
-TBD
-
 ## Learning Objectives
 
 By the end of this lesson, you'll be able to:

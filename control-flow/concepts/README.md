@@ -1,9 +1,5 @@
 # ![JavaScript Control Flow - Concepts](./assets/hero.png)
 
-### Time
-
-TBD
-
 ## Learning Objective
 
 By the end of this lesson, you'll be able to:
