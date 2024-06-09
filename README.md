@@ -35,6 +35,12 @@ Say your:
 | [Intro to the CLI](./Intro-to-cli/README.md)   | Access your computer’s command line interface (CLI) and start using it to navigate your computer. |
 | [Control Flow](./control-flow/README.md)       | Have your applications make decisions based on certain conditions using logic.                    |
 | [Functions](./functions/README.md)             | Write blocks of code you can run on command to perform a specific routine.                        |
+| [Advanced HTML](./advanced-html/README.md)             | Write blocks of code you can run on command to perform a specific routine.                        |
+| [Advanced CSS](./advanced-css/README.md)             | Write blocks of code you can run on command to perform a specific routine.                        |
+| [Responsive Design](./responsive-design/README.md)             | Write blocks of code you can run on command to perform a specific routine.                        |
+| [DOM](./dom/README.md)             | Write blocks of code you can run on command to perform a specific routine.                        |
+| [DOM Events](./dom-events/README.md)             | Write blocks of code you can run on command to perform a specific routine.                        |
+| [Pokemon Game](./gameboy/README.md)             | Write blocks of code you can run on command to perform a specific routine.                        |
 
 This will be your shared class repo!
 
