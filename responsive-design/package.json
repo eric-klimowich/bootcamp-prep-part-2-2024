@@ -1,0 +1,13 @@
+{
+  "name": "javascript-scope",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "mdv": "node md-validate.js"
+  },
+  "type": "module",
+  "author": "General Assembly",
+  "devDependencies": {
+    "ga-mdlint": "^1.0.2"
+  }
+}

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: 'en-US' }}">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link
+    rel="stylesheet"
+    href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}"
+  />
+  <link
+    rel="stylesheet"
+    href="https://{{ site.github.pages_hostname }}/{{ site.github.owner_name }}/universal-resources-internal/static/css/code-theme.min.css"
+  />
+  <link
+    rel="stylesheet"
+    href="https://{{ site.github.pages_hostname }}/{{ site.github.owner_name }}/universal-resources-internal/static/css/custom-style.min.css"
+  />
+  <script
+    src="https://{{ site.github.pages_hostname }}/{{ site.github.owner_name }}/universal-resources-internal/static/js/anchor.min.js"
+  ></script>
+  <script
+    src="https://{{ site.github.pages_hostname }}/{{ site.github.owner_name }}/universal-resources-internal/static/js/highlightjs.min.js"
+  ></script>
+  <script
+    src="https://{{ site.github.pages_hostname }}/{{ site.github.owner_name }}/universal-resources-internal/static/js/highlightjs-copy.min.js"
+  ></script>
+  <script
+    src="https://{{ site.github.pages_hostname }}/{{ site.github.owner_name }}/universal-resources-internal/static/js/custom.min.js"
+  ></script>
+  <script
+    src="https://{{ site.github.pages_hostname }}/{{ site.github.owner_name }}/universal-resources-internal/static/js/custom-defer.min.js"
+    defer
+  ></script>
+  <link 
+    rel="icon" 
+    type="image/png"
+    href="https://{{ site.github.pages_hostname }}/{{ site.github.owner_name }}/universal-resources-internal/static/assets/favicon.png"
+  >
+  <title>Responsive Design</title>
+</head>
+<body>
+  <div class="container-lg px-3 my-5 markdown-body">{{ content }}</div>
+</body>
+</html>
