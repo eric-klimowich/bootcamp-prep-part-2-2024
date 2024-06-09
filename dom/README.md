@@ -1,9 +1,5 @@
 # The DOM
 
-### Time
-
-TBD - 60 min
-
 ## Learning Objectives
 
 By the end of this lesson, you'll be able to:
