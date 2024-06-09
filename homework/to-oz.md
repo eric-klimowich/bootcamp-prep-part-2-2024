@@ -9,10 +9,9 @@ their way through Oz!
 
 ## Instructions
 
-1. Create a new issue on this repository ❓(should we do this or create a md or txt file??)❓
-2. Work through the prompts below, adding the solution to each prompt to the
+* Work through the prompts below, adding the solution to each prompt to the
    body of your issue
-3. When you finish, submit your issue.
+* When you finish, submit your issue.
 
 ## Requirements
 
@@ -38,7 +37,7 @@ Work through the following prompts:
 
 > Here is what the file structure should look like after completing Part 1:
 
-![Oz Part 1 File Struckture](../hmwk-assets/cli-part1-tree.png)
+<!-- ![Oz Part 1 File Struckture](../hmwk-assets/cli-part1-tree.png) -->
 
 ---
 
@@ -63,7 +62,7 @@ In the directory `oz/`...
 
 > Here is what the file structure should look like after completing Part 3:
 
-![Oz Part 3 File Structure](../hmwk-assets/cli-part3-tree.png)
+<!-- ![Oz Part 3 File Structure](../hmwk-assets/cli-part3-tree.png) -->
 
 ---
 
@@ -76,7 +75,7 @@ In the directory `oz/`...
 
 > Here is what the file structure should look like after completing Part 4:
 
-![Oz Part 4 File Struckture](../hmwk-assets/cli-part4-tree.png)
+<!-- ![Oz Part 4 File Struckture](../hmwk-assets/cli-part4-tree.png) -->
 
 ### BONUS: Give Gifts and Learn "There's No Place Like Home"
 
@@ -106,7 +105,7 @@ These next couple of steps are a little more advanced, but give it a try!
 
 > Here is what the file structure should look like after completing all parts:
 
-![Oz Final File Struckture](../hmwk-assets/cli-final-tree.png)
+<!-- ![Oz Final File Struckture](../hmwk-assets/cli-final-tree.png) -->
 
 
 ## Solution
