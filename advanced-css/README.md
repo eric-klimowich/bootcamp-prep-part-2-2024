@@ -28,6 +28,6 @@ Continuing our CSS exploration, we'll tackle more advanced topics to enhance our
 | [Box-sizing](./box-sizing/README.md) | Understand the box-sizing property to control how the width and height of elements are calculated. |
 | [Selectors](./selectors/README.md) | Learn additional selectors to target and style specific elements in the document. |
 | [Relative Units](./relative-units/relative-units.md) | Understand and use relative units for responsive design. |
-| [Positioning](./relative-units/README.md) | Understand and use relative units for responsive design. |
-| [Responsive Layouts](./responsive-layouts/README.md) | Understand and use relative units for responsive design. |
+| [Positioning](./positioning/README.md) | Understand and use relative units for responsive design. |
+
 
