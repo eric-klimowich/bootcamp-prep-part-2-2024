@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pokemon GA</title>
+  <link rel="stylesheet" href="./main.css">
+  <script src="./script.js" defer></script>
+</head>
+<body>
+    <div class="gameboy">
+        <div class="screen">
+          <p id="start-message">Press start to continue.</p>
+          <!-- Pokemon will be displayed inside of screen div -->
+          <div class="pokemon-container hidden">
+            <div class="pokemon">
+                <img src="" alt="">
+                <h3></h3> <!-- Name -->
+                <p></p> <!-- Pokedex Number -->
+                <p></p> <!-- Type -->
+            </div>
+            <div class="pokemon-stats">
+              <h3>Stats: </h3>
+              <p></p> <!-- HP -->
+              <p></p> <!-- Attack -->
+              <p></p> <!-- Defence -->
+              <p></p> <!-- Speed -->
+            </div>
+          </div>
+          <div class="battle-screen hidden">
+            <div class="player">
+              <h4>Player</h4>
+              <img src="" alt="">
+              <div>
+                <progress id="player-hp" value="45" max="45"></progress>
+                <label for="player-hp">HP </label>
+              </div>
+            </div>
+            <div class="computer">
+              <h4>Computer</h4>
+              <img src="" alt="">
+              <div>
+                <progress id="computer-hp" value="45" max="45"></progress>
+                <label for="computer-hp">HP </label>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="controls">
+          <div class="d-pad">
+            <div class="button up"></div>
+            <div class="button left"></div>
+            <div class="button right"></div>
+            <div class="button down"></div>
+          </div>
+          <div class="buttons">
+            <div class="button a">A</div>
+            <div class="button b">B</div>
+          </div>
+        </div>
+        <div class="extra-buttons">
+          <div class="button select">Select</div>
+          <div class="button start">Start</div>
+        </div>
+    </div>
+</body>
+</html>
