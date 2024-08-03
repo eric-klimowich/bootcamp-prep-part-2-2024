@@ -17,8 +17,6 @@ their way through Oz!
 
 Work through the following prompts:
 
-> _Hint: If you want to visiualize the file structure, you can use the `tree` command. If you don't have it installed, you can install it with `brew install tree`._
-
 ### Part 1: Setup
 
 1. Create a directory called `cli-practice-lab`
@@ -34,10 +32,6 @@ Work through the following prompts:
    - `wicked_witch_of_the_west`
 
 <br>
-
-> Here is what the file structure should look like after completing Part 1:
-
-<!-- ![Oz Part 1 File Struckture](../hmwk-assets/cli-part1-tree.png) -->
 
 ---
 
@@ -60,10 +54,6 @@ In the directory `oz/`...
 
 <br>
 
-> Here is what the file structure should look like after completing Part 3:
-
-<!-- ![Oz Part 3 File Structure](../hmwk-assets/cli-part3-tree.png) -->
-
 ---
 
 ### Part 4: You Must Win Against the Witch
@@ -73,9 +63,6 @@ In the directory `oz/`...
 
 <br>
 
-> Here is what the file structure should look like after completing Part 4:
-
-<!-- ![Oz Part 4 File Struckture](../hmwk-assets/cli-part4-tree.png) -->
 
 ### BONUS: Give Gifts and Learn "There's No Place Like Home"
 
@@ -101,11 +88,6 @@ These next couple of steps are a little more advanced, but give it a try!
 - Google and use the `mv` command to move files between directories
 - Navigate to the `cli-practice-lab` directory before moving the files
 <br>
-
-
-> Here is what the file structure should look like after completing all parts:
-
-<!-- ![Oz Final File Struckture](../hmwk-assets/cli-final-tree.png) -->
 
 
 ## Solution
