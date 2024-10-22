@@ -35,12 +35,12 @@ Say your:
 | [Intro to the CLI](./Intro-to-cli/README.md)   | Access your computer’s command line interface (CLI) and start using it to navigate your computer. |
 | [Control Flow](./control-flow/README.md)       | Have your applications make decisions based on certain conditions using logic.                    |
 | [Functions](./functions/README.md)             | Write blocks of code you can run on command to perform a specific routine.                        |
-| [Advanced HTML](./advanced-html/README.md)             | Write blocks of code you can run on command to perform a specific routine.                        |
-| [Advanced CSS](./advanced-css/README.md)             | Write blocks of code you can run on command to perform a specific routine.                        |
-| [Responsive Design](./responsive-design/README.md)             | Write blocks of code you can run on command to perform a specific routine.                        |
-| [DOM](./dom/README.md)             | Write blocks of code you can run on command to perform a specific routine.                        |
-| [DOM Events](./dom-events/README.md)             | Write blocks of code you can run on command to perform a specific routine.                        |
-| [Pokemon Game](./gameboy/README.md)             | Write blocks of code you can run on command to perform a specific routine.                        |
+| [Advanced HTML](./advanced-html/README.md)             |  Build well-organized web pages using foundational tags and semantic elements for better accessibility and SEO.                       |
+| [Advanced CSS](./advanced-css/README.md)             | Master the use of CSS files to style web pages, manage layouts, and implement responsive design.                        |
+| [Responsive Design](./responsive-design/README.md)             | Create layouts that adapt to different screen sizes using flexible grids, media queries, and relative units.                        |
+| [DOM](./dom/README.md)             | Understand the DOM to interact with, update, and dynamically create HTML elements using JavaScript.                        |
+| [DOM Events](./dom-events/README.md)             |  Enhance web interactivity, master event listener syntax, and create in-memory elements for dynamic addition to the DOM.                     |
+| [Pokemon Game](./gameboy/README.md)             | Engage in a comprehensive exercise to master JavaScript and DOM manipulation by creating a dynamic web game.                       |
 
 This will be your shared class repo!
 
